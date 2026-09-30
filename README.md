@@ -2,75 +2,120 @@
 
 ### Junior MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
 
-I'm an aspiring MERN Stack Developer focused on building practical full-stack web applications and strengthening my backend and database development skills.
+I’m a Junior MERN Stack Developer focused on building practical web applications and strengthening my full-stack development skills.
 
-I have completed hands-on MERN Stack training and have experience working with React, Node.js, Express.js, MongoDB, REST APIs, CRUD operations, MVC architecture, and Git/GitHub.
+I have completed hands-on MERN Stack training and have been working on projects involving **React.js, Node.js, Express.js, MongoDB, REST APIs, CRUD operations, MVC architecture, and Git/GitHub**.
+
+---
+
+## 🚀 About Me
+
+* 💻 Junior MERN Stack Developer
+* ⚛️ Currently focused on React.js and Node.js
+* 🔧 Building practical full-stack web applications
+* 🗄️ Learning backend development, REST APIs & databases
+* 🎓 BS Computer Science — Virtual University of Pakistan
+* 📚 Completed Full Stack/MERN training at EXD Education
+* 💼 3+ years of professional experience in Lead Generation & Business Development
+* 🌱 Currently improving my full-stack development skills
+
+---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Bootstrap
+`HTML5` `CSS3` `JavaScript` `React.js` `Bootstrap`
 
-**Backend**
+### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* CRUD Operations
+`Node.js` `Express.js` `REST APIs` `CRUD` `MVC`
 
-**Database**
+### Database
 
-* MongoDB
-* Mongoose
+`MongoDB` `Mongoose`
 
-**Tools**
+### Tools
 
-* Git
-* GitHub
-* Postman
-* VS Code
+`Git` `GitHub` `Postman` `VS Code`
 
-## 🚀 Featured Project
+---
+
+## 🔥 Featured Project
 
 ### 🛒 React E-Commerce Store
 
-A hands-on e-commerce project built while learning and practicing React.
-
-**Tech:** React.js, JavaScript, HTML, CSS
+A practical e-commerce application built to strengthen my React.js development skills.
 
 **Features:**
 
 * Product listing
 * Shopping cart
+* Add/remove products
 * Quantity management
 * Product sorting
+* Dynamic cart totals
 * Component-based React structure
 
-## 📚 Currently Learning
+**Tech Used:** React.js • JavaScript • HTML • CSS
 
-* Backend development
+---
+
+## 📌 Currently Learning
+
+* Advanced React concepts
+* Node.js & Express.js
 * REST API development
-* Database design
+* MongoDB & database design
+* Authentication & authorization
 * Full-stack application development
-* Improving React and Node.js skills
+* Git & GitHub workflow
 
-## 💼 Background
-
-Alongside my development journey, I have 3+ years of professional experience in lead generation and business development, which has helped me develop communication, research, and problem-solving skills.
+---
 
 ## 🎓 Education
 
-**BS Computer Science — Virtual University of Pakistan**
+**BS Computer Science**
+Virtual University of Pakistan
 
-## 📫 Connect With Me
+**Full Stack / MERN Stack Training**
+EXD Education
 
-* LinkedIn: [Mubeen Atta](https://linkedin.com/in/mubeen-atta/)
-* Email: [mubeenatta.official@gmail.com](mailto:mubeenatta.official@gmail.com)
+---
+
+## 💼 Professional Background
+
+Before moving into software development, I worked in **Lead Generation & Business Development**, where I developed experience in:
+
+* Market research
+* Prospect research
+* Lead generation
+* Business communication
+* Cold email outreach
+* Client/company research
+
+I’m now combining that professional experience with my software development skills to build my career in **MERN Stack Development**.
+
+---
+
+## 📈 My Development Journey
+
+**2023 → 2026**
+
+`Business Development` → `MERN Training` → `React Projects` → `Backend Development` → `Full-Stack Development`
+
+---
+
+## 🎯 Current Goal
+
+> Build real-world full-stack applications, gain professional development experience, and grow into a strong MERN Stack Developer.
+
+---
+
+## 🤝 Let's Connect
+
+**LinkedIn:** Mubeen Atta
+**GitHub:** mubeenattaofficial
 
 ---
 
